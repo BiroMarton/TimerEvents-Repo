@@ -2,3 +2,8 @@ D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj
 D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
 D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
 D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
