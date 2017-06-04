@@ -1,0 +1,4 @@
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojResolveAssemblyReference.cache
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+D:\GitRepo\TimerEvents-Repo\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Form1.resources
